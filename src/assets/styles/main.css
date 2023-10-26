@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'gothic-pro-book';
+}
+
+@font-face{
+    font-family: 'hey-betty';
+    src: url('../fonts/HeyBetty-Regular.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'gothic-pro-book';
+    src: url('../fonts/ITC-Avant-Garde\ Gothic-Pro-Book.otf') format('truetype');
+}
+
+@font-face{
+    font-family: 'gothic-pro-bold';
+    src: url('../fonts/ITC\ Avant\ Garde\ Gothic\ Pro-Bold.otf') format('truetype');
+}
+
+@font-face{
+    font-family: 'meadows';
+    src: url('../fonts/Meadows.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'YouthBrushDaylight';
+    src: url('../fonts/YouthBrushDaylight.otf') format('truetype');
+}
+
+.pad-mar-no{
+    padding: 0;
+    margin: 0;
+}
+
+.res-p-y{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.f-sz-sm{
+    font-size: 13px;
+}
+
+.row{
+    margin: 0;
+}
+
+@media only screen and (max-width: 767px) {
+    .res-p-y{
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .res-p-y{
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+}
