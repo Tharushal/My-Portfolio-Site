@@ -21,7 +21,7 @@
                                         <img class="img-icon" src="../assets/images/icons/email.png" alt="">
                                     </div>
                                 
-                                    <a href="mailto:tharushalakshan3@gmail.com">Send Email</a>
+                                    <a href="mailto:tharushalakshan3@gmail.com">tharushalakshan3@gmail.com</a>
                                 </div>
                                 <div class="contact-detail-box-2">
                                     <div class="icon-box">
