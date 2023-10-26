@@ -20,7 +20,8 @@
                                     <div class="icon-box">
                                         <img class="img-icon" src="../assets/images/icons/email.png" alt="">
                                     </div>
-                                    <p class="pad-mar-no">tharushalakshan3@gmail.com</p>
+                                
+                                    <a href="mailto:tharushalakshan3@gmail.com">Send Email</a>
                                 </div>
                                 <div class="contact-detail-box-2">
                                     <div class="icon-box">
