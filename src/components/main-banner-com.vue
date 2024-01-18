@@ -4,7 +4,7 @@
             <div class="navigation">
                 <div class="lg">
                     <div class="logo-box">
-                        <img class="img-logo" src="../assets/images/logo.png" alt="">
+                        <img class="img-logo" src="../assets/images/logow.png" alt="">
                     </div>
                     <a class="a-link" href="/#home">
                         <!-- <font-awesome-icon class="img-link-icon" :icon="['fas', 'home']" /> -->
@@ -50,7 +50,7 @@
                                     class="btn-close btn-close-white"></button>
                             </div>
                             <div class="logo-box">
-                                <img class="img-logo" src="../assets/images/logo.png" alt="">
+                                <img class="img-logo" src="../assets/images/logow.png" alt="">
                             </div>
                             <a class="a-link" @click="mobileNavigationIsVisible = false;" href="/#home">
                                 <p class="txt-link">Home</p>
