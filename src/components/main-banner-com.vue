@@ -4,7 +4,7 @@
             <div class="navigation">
                 <div class="lg">
                     <div class="logo-box">
-                        <img class="img-logo" src="../assets/images/logo.jpeg" alt="">
+                        <img class="img-logo" src="../assets/images/logo.png" alt="">
                     </div>
                     <a class="a-link" href="/#home">
                         <!-- <font-awesome-icon class="img-link-icon" :icon="['fas', 'home']" /> -->
